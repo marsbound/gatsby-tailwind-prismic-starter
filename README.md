@@ -1,4 +1,4 @@
-# Rusty Server
+# Gatsby Tailwind Prismic Starter
 
 Gatsby Starter that implements TailwindCSS for styling and Prismic as data source.
 
