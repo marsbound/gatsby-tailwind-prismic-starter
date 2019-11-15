@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Tailwind Starter`,
-    description: `Kick off your next, great Gatsby project with this Tailwind starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Gatsby Tailwind Prismic Starter`,
+    description: `Kick off your next, great Gatsby project with this Tailwind + Prismic starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `Clark Lee`,
   },
   plugins: [
